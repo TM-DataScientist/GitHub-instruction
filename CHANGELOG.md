@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [2026-05-09]
+### Added
+- `.gitignore`: OS固有ファイル、エディタ設定、機密情報ファイルを対象とした除外設定を追加。
+
 ## [2026-05-08]
 ### Added
 - `GEMINI.md`: `docs/tools/prompts.md` に基づく仕様駆動開発のプロジェクトルールを追加。
