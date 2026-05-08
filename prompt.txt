@@ -1,26 +1,13 @@
 # 対象ディレクトリ/ファイル
-- 
+- docs\tools\git-commands.md
 
 # 指示
 
-以下をあなたが実施することはできる？
+ブランチをリベースとは？
 
 
 
 """
-  2. ポリシー（Policy）を設定する
-  特定のフォルダや特定のコマンドに対して、常に自動実行を許可するルールを
-  作成できます。
-  ~/.gemini/policies/ フォルダ（Windowsの場合は
-  C:\Users\09027\.gemini\policies\）に以下のような .toml
-  ファイルを作成します。
-
-  例：すべてのツールを許可する場合（all_allow.toml）
-
-   1 [[rule]]
-   2 toolName = "*"
-   3 decision = "allow"
-   4 priority = 100
 
 """
 
