@@ -1,5 +1,9 @@
 # GitHub-instruction
 
+本プロジェクトは、以下の書籍の内容を参考にしたハンズオン演習用のリポジトリです。
+- **書籍**: [『仕様駆動開発実践入門』](https://bookplus.nikkei.com/atcl/catalog/26/03/13/02529/)
+- **ライセンス**: 本リポジトリのライセンスは、[元のリポジトリ](https://github.com/TM-DataScientist/GitHub-instruction)から流用しています。
+
 ## test
 
 ## CHANGE LOG

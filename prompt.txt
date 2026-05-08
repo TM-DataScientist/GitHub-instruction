@@ -2,9 +2,10 @@
 - docs\tools\git-commands.md
 
 # 指示
+この本は以下の本を参照したハンズオンであることは記載した方が良い？
+https://bookplus.nikkei.com/atcl/catalog/26/03/13/02529/
 
-ブランチをリベースとは？
-
+LICENSEは元のリポジトリから流用した
 
 
 """
