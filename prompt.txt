@@ -2,10 +2,11 @@
 - docs\tools\git-commands.md
 
 # 指示
-この本は以下の本を参照したハンズオンであることは記載した方が良い？
-https://bookplus.nikkei.com/atcl/catalog/26/03/13/02529/
-
-LICENSEは元のリポジトリから流用した
+ちなみに元のリポジトリの情報はこれです。
+  README.md への記載例
+  > ## Acknowledgments / Credits
+  > This project is based on or incorporates code from SDD (https://github.com/elvezjp/SDD) (Spec-Driven Development), originally created by Hideki Tanaka (https://github.com/elvezjp).
+  > Licensed under the MIT License.
 
 
 """
